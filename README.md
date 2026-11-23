@@ -7,7 +7,7 @@
 ‎ ‎ ‎
 ‎ ‎ ‎ ‎ ‎
 <p align="center">
-  <a href="https://kaopup.straw.page"><img src="https://file.garden/awOOKDKXwtNst-3r/image.png"width="150" /></a>   <a href="https://kaopup.straw.page"><img src="https://file.garden/awOOKDKXwtNst-3r/image-tinted.png"width="150" /></a>   <a href="https://kaopup.straw.page"><img src="https://file.garden/awOOKDKXwtNst-3r/image-tinted%20(1).png"width="150" /></a>
+  <a href="https://kaopup.straw.page"><img src="https://file.garden/awOOKDKXwtNst-3r/image.png"width="150" /></a><img src="https://file.garden/awOOKDKXwtNst-3r/image-tinted.png"width="150" /></a><a href="https://mis.atabook.org/"><img src="https://file.garden/awOOKDKXwtNst-3r/image-tinted%20(1).png"width="150" /></a>
 
 
 
